@@ -1,0 +1,1 @@
+print('hi i am a boy\n'*8)

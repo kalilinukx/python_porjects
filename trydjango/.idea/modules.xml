@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Numpy_course/.idea/Numpy_course.iml" filepath="$PROJECT_DIR$/../Numpy_course/.idea/Numpy_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/trydjango.iml" filepath="$PROJECT_DIR$/.idea/trydjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled_new/.idea/untitled_new.iml" filepath="$PROJECT_DIR$/../untitled_new/.idea/untitled_new.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="88b740ca-1779-4ad1-abf6-33d2842614bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="2b255ca6-f685-438a-826f-936676a761a8">
+    <option name="files">
+      <option value="hi.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTlnyTvftVqGs6SBh1AC1mfC40" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled_new" sdk-home="C:\Users\rajaa\PycharmProjects\untitled_new\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\rajaa\PycharmProjects\untitled_new\venv\Scripts\python.exe" />
+        <option name="myModuleName" value="untitled_new" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.parenthesis">
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="parenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled_new" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parenthesis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.parenthesis" />
+        <item itemvalue="Python.new" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b740ca-1779-4ad1-abf6-33d2842614bc" name="Default Changelist" comment="" />
+      <created>1581078135571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581078135571</updated>
+      <workItem from="1581078138180" duration="3057000" />
+      <workItem from="1581138625707" duration="1387000" />
+      <workItem from="1581147526107" duration="758000" />
+      <workItem from="1581265604732" duration="1785000" />
+      <workItem from="1581424157096" duration="68000" />
+      <workItem from="1581947324425" duration="1325000" />
+      <workItem from="1582701122988" duration="2574000" />
+      <workItem from="1582711999982" duration="4963000" />
+      <workItem from="1582760917040" duration="2634000" />
+      <workItem from="1582944193205" duration="774000" />
+      <workItem from="1583122751455" duration="33000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="383" y="194" width="354" height="199" key="Github.CreateGistDialog" timestamp="1581266188736">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="383" y="194" width="354" height="199" key="Github.CreateGistDialog/0.0.1097.587@0.0.1097.587" timestamp="1581266188736" />
+    <state width="1054" height="56" key="GridCell.Tab.0.bottom" timestamp="1582765112628">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1581082087091">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1097.587@0.0.1097.587" timestamp="1581082087091" />
+    <state width="1054" height="56" key="GridCell.Tab.0.bottom/0.0.1097.587@0.0.1097.587" timestamp="1582765112628" />
+    <state width="1054" height="56" key="GridCell.Tab.0.center" timestamp="1582765112628">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1581082087091">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.center.inPresentationMode/0.0.1097.587@0.0.1097.587" timestamp="1581082087091" />
+    <state width="1054" height="56" key="GridCell.Tab.0.center/0.0.1097.587@0.0.1097.587" timestamp="1582765112628" />
+    <state width="1054" height="56" key="GridCell.Tab.0.left" timestamp="1582765112627">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1581082087091">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.left.inPresentationMode/0.0.1097.587@0.0.1097.587" timestamp="1581082087091" />
+    <state width="1054" height="56" key="GridCell.Tab.0.left/0.0.1097.587@0.0.1097.587" timestamp="1582765112627" />
+    <state width="1054" height="56" key="GridCell.Tab.0.right" timestamp="1582765112628">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1581082087091">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1019" height="117" key="GridCell.Tab.0.right.inPresentationMode/0.0.1097.587@0.0.1097.587" timestamp="1581082087091" />
+    <state width="1054" height="56" key="GridCell.Tab.0.right/0.0.1097.587@0.0.1097.587" timestamp="1582765112628" />
+    <state width="1054" height="166" key="GridCell.Tab.1.bottom" timestamp="1582716967933">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="166" key="GridCell.Tab.1.bottom/0.0.1097.587@0.0.1097.587" timestamp="1582716967933" />
+    <state width="1054" height="166" key="GridCell.Tab.1.center" timestamp="1582716967933">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="166" key="GridCell.Tab.1.center/0.0.1097.587@0.0.1097.587" timestamp="1582716967933" />
+    <state width="1054" height="166" key="GridCell.Tab.1.left" timestamp="1582716967933">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="166" key="GridCell.Tab.1.left/0.0.1097.587@0.0.1097.587" timestamp="1582716967933" />
+    <state width="1054" height="166" key="GridCell.Tab.1.right" timestamp="1582716967933">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="166" key="GridCell.Tab.1.right/0.0.1097.587@0.0.1097.587" timestamp="1582716967933" />
+    <state x="58" y="0" key="SettingsEditor" timestamp="1581082017247">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="58" y="0" key="SettingsEditor/0.0.1097.587@0.0.1097.587" timestamp="1581082017247" />
+    <state x="245" y="119" key="com.intellij.ide.util.TipDialog" timestamp="1582944199123">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="245" y="119" key="com.intellij.ide.util.TipDialog/0.0.1097.587@0.0.1097.587" timestamp="1582944199123" />
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1581147562000">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1097.587@0.0.1097.587" timestamp="1581147562000" />
+  </component>
+</project>

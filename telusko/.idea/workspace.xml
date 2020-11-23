@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8745982-262f-4dc5-8192-c80b54ace945" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bFjiYqoNJI3r02i3mtYUs6WBcO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hello_world" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rajaa\PycharmProjects\telusko\calc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rajaa\PycharmProjects\telusko\travello" />
+      <recent name="C:\Users\rajaa\PycharmProjects\telusko\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django tests.Test: telusko">
+    <configuration name="Test: telusko" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="telusko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="telusko" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="telusko" type="Python.DjangoServer" factoryName="Django server">
+      <module name="telusko" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="telusko.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Django tests.Test: telusko" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8745982-262f-4dc5-8192-c80b54ace945" name="Default Changelist" comment="" />
+      <created>1588234863859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588234863859</updated>
+      <workItem from="1588234898526" duration="3319000" />
+      <workItem from="1588326560598" duration="5610000" />
+      <workItem from="1588465369151" duration="7162000" />
+      <workItem from="1588771488877" duration="2635000" />
+      <workItem from="1589430340957" duration="625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588326610958">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="141" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1097.587@0.0.1097.587" timestamp="1588326610958" />
+    <state x="329" y="49" key="FileChooserDialogImpl" timestamp="1589430362945">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="329" y="49" key="FileChooserDialogImpl/0.0.1097.587@0.0.1097.587" timestamp="1589430362945" />
+    <state width="1054" height="132" key="GridCell.Tab.0.bottom" timestamp="1588482014435">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="132" key="GridCell.Tab.0.bottom/0.0.1097.587@0.0.1097.587" timestamp="1588482014435" />
+    <state width="1054" height="132" key="GridCell.Tab.0.center" timestamp="1588482014435">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="132" key="GridCell.Tab.0.center/0.0.1097.587@0.0.1097.587" timestamp="1588482014435" />
+    <state width="1054" height="132" key="GridCell.Tab.0.left" timestamp="1588482014434">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="132" key="GridCell.Tab.0.left/0.0.1097.587@0.0.1097.587" timestamp="1588482014434" />
+    <state width="1054" height="132" key="GridCell.Tab.0.right" timestamp="1588482014435">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state width="1054" height="132" key="GridCell.Tab.0.right/0.0.1097.587@0.0.1097.587" timestamp="1588482014435" />
+    <state x="245" y="118" key="com.intellij.ide.util.TipDialog" timestamp="1589430341921">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="245" y="118" key="com.intellij.ide.util.TipDialog/0.0.1097.587@0.0.1097.587" timestamp="1589430341921" />
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup" timestamp="1588327409800">
+      <screen x="0" y="0" width="1097" height="587" />
+    </state>
+    <state x="211" y="-1" width="672" height="678" key="search.everywhere.popup/0.0.1097.587@0.0.1097.587" timestamp="1588327409800" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/telusko$Test__telusko.coverage" NAME="Test: telusko Coverage Results" MODIFIED="1588477663657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

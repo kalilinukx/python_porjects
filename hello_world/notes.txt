@@ -1,0 +1,18 @@
+# an expression is a piece of code that produces a value
+# when we type something that gets rejected by the interpreter by syntax  then it's called syntax error
+# pep 8 is an python enhancement proposal that helps us in writing the better code for understanding
+# linter -it is a program that runs the program for finding the potential error
+#result of an expression "*"*10 will result in the printing of the 10 times the *
+# c_python-it compiles the python code into byte code before interpreting it works as both compiler as well as interpreter
+#jython is combination of java and python where as c python is made up of c language as well as python
+#IronPython is an implementation of the Python programming language targeting the.NET Framework and Mono
+parameter-the variables to which the actual values must be passed in the function
+arguments-these are the real values of functions passed inside the required parameter
+
+- all functions in a python program must return NONE in return
+-keyword arguments are the values to a  pointing variables like( >>greet ("bruce",msg="How do u do") contains one positional arguments
+and one keyword argument
+-optional arguments can be assigned after the assigning of the actual keyword argument
+-prefixing any parameter with an argument gonna give us a result in that times the no in return
+-scope is the area of a given function through which it's variables,functions are gonna be executable
+-

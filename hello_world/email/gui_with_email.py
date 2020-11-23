@@ -1,0 +1,26 @@
+from tkinter import *
+import smtplib
+s=smtplib.SMTP('smtp.gmail.com',587)
+s.starttls()
+s.login('atulkumar987613@gmail.com','7050@Atul')
+root=Tk()
+root.title("Mce-mail")
+def send():
+    mail=w.get()
+    subject=w1.get()
+    msg=w2.get()
+    msg1="subject:{}\n\n{}".format(subject,msg)
+    s.sendmail('atulkumar987613@gmail.com',f'{mail}',f'{msg1}')
+
+root.geometry("300x300")
+Label(root,text="Email Address:").grid(row=1,column=1)
+w=Entry(root)
+w.grid(row=1,column=2)
+Label(root,text="Subject:").grid(row=3,column=1)
+w1=Entry(root)
+w1.grid(row=3,column=2)
+Label(root,text="Message:").grid(row=5,column=1)
+w2=Entry(root)
+w2.grid(row=5,column=2)
+btn=Button(root,text="send",command=send)
+btn.grid(row=6,column=1)
