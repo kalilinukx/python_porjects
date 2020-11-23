@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../IMAGE/.idea/IMAGE.iml" filepath="$PROJECT_DIR$/../IMAGE/.idea/IMAGE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gui_calculator/.idea/gui_calculator.iml" filepath="$PROJECT_DIR$/../gui_calculator/.idea/gui_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello_world/.idea/hello_world.iml" filepath="$PROJECT_DIR$/../hello_world/.idea/hello_world.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_project/.idea/pyshop.iml" filepath="$PROJECT_DIR$/../django_project/.idea/pyshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spaceinvador.iml" filepath="$PROJECT_DIR$/.idea/spaceinvador.iml" />
+    </modules>
+  </component>
+</project>
